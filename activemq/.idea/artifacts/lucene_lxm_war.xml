@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="lucene_lxm:war">
+    <output-path>D:/IdeaProjects/lucene_lxm/target</output-path>
+    <root id="archive" name="lucene_lxm.war">
+      <element id="artifact" artifact-name="lucene_lxm:war exploded" />
+    </root>
+  </artifact>
+</component>

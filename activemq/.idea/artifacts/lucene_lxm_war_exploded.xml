@@ -1,0 +1,29 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="lucene_lxm:war exploded">
+    <output-path>D:/IdeaProjects/lucene_lxm/target/lucene_lxm</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="lucene_lxm" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-core:7.4.0" />
+          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-queryparser:7.4.0" />
+          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-sandbox:7.4.0" />
+          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-highlighter:7.4.0" />
+          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-join:7.4.0" />
+          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-analyzers-common:7.4.0" />
+          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-queries:7.4.0" />
+          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-memory:7.4.0" />
+          <element id="library" level="project" name="Maven: com.janeluo:ikanalyzer:2012_u6" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:8.0.12" />
+          <element id="library" level="project" name="Maven: com.google.protobuf:protobuf-java:2.6.0" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="D:/IdeaProjects/lucene_lxm/target/lucene_lxm/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="lucene_lxm/web/Web" />
+    </root>
+  </artifact>
+</component>
